@@ -5,7 +5,6 @@ const sauceRoutes = require('./routes/sauce');
 const userRoutes = require('./routes/user');
 const path = require('path');
 const dotenv = require('dotenv');
-
 dotenv.config();
 
 mongoose.connect(`mongodb+srv://${process.env.MONGO_USERNAME}:${process.env.MONGO_PASSWORD}@cluster0.sv4p6.mongodb.net/${process.env.MONGO_DATABASE}?retryWrites=true&w=majority`,

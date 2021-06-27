@@ -14,7 +14,7 @@ router.get('/:id', auth, sauceCtrl.getOneSauce);
 // POST
 router.post('/', auth, multer, sauceCtrl.createSauce);
 
-// // POST
+// POST LIKE
 router.post('/:id/like', auth, sauceCtrl.likeSauce);
 
 // PUT
