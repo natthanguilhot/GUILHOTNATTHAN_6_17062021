@@ -18,5 +18,6 @@ Une fois les 2 dossiers téléchargés :
 6. Ouvrir un invité de commande dans le dossier "GUILHOTNATTHAN_6_17062021_FRONTEND" (dossier correspondant au frontend).
 7. Exécutez la commande : npm install
 8. Exécutez la commande : ng serve
+9. Attendez la fin de la compilation du projet.
 
-9. Enfin, ouvrez votre navigatueur et tapez l'url : localhost:4200
+10. Enfin, ouvrez votre navigatueur et tapez l'url : localhost:4200
