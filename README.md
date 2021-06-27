@@ -8,8 +8,8 @@ Rendez-vous ici : https://github.com/natthanguilhot/GUILHOTNATTHAN_6_17062021
 
 ## Initialisé le projet
 Une fois les 2 dossiers téléchargés :
-1. Créer un fichier nommé ".env"
-2. Ouvrez le fichier ".env.sample", copiez le contenu dans le fichier ".env" et remplacez les valeurs par celles données dans le PDF.
+1. Dans le dossier "GUILHOTNATTHAN_6_17062021" (dossier correspondant au backend), créer un fichier nommé ".env".
+2. Copiez les valeurs données dans le PDF dans le fichier ".env".
 
 3. Ouvrez un invité de commande à la racine du dossier "GUILHOTNATTHAN_6_17062021" (dossier correspondant au backend).
 4. Exécutez la commande : npm install (Pour installer toutes les dépendances nécéssaires)
