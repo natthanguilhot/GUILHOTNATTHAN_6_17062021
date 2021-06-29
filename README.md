@@ -1,5 +1,8 @@
 # Installation du projet 
 
+## Préréquis :
+Node.js : https://nodejs.org/en/
+
 ## Téléchargement du frontend
 Rendez-vous ici : https://github.com/natthanguilhot/GUILHOTNATTHAN_6_17062021_FRONTEND
 
