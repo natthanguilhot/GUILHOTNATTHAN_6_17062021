@@ -159,6 +159,3 @@ exports.likeSauce = (req, res, next) => {
             error
         }));
 };
-
-
-// TODO : README qui explique comment lancer le projet (en MARKDOWN) || PDF avec secrets || Préparer soutenance
